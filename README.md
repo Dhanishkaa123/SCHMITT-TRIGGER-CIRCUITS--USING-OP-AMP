@@ -42,15 +42,16 @@ R2=39 KΩ
 
 
 # PRACTICAL GRPAH:
-PASTE UR GRAPH HERE
+<img width="431" height="408" alt="image" src="https://github.com/user-attachments/assets/893ba792-899d-42b3-9a43-6a00159a14dd" />
+
 
 
 # TABULATION:
 
 | Signal Type          | Amplitude (V) | Time Period (ms) | Frequency (Hz) |
 |----------------------|--------------|------------------|----------------|
-| Sine Wave Input      |              |                  |                |
-| Square Wave Output   |              |                  |                |
+| Sine Wave Input      |       3.20       |      1ms            |      1Khz          |
+| Square Wave Output   |        21.20      |         1ms         |       1khz         |
 
   # RESULT:
 Thus a Schmitt trigger is designed and tested using op-amp IC 741.
